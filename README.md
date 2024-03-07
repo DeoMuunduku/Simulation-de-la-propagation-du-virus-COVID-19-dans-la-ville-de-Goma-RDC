@@ -1,4 +1,5 @@
 # Simulation-de-la-propagation-du-virus-COVID-19-dans-la-ville-de-Goma-RDC
+auteur : Deo
 Ce projet vise à modéliser et simuler la propagation d'une épidémie, en particulier du virus COVID-19, dans la ville de GAMA en utilisant le logiciel GAMA associé à QGIS pour la visualisation géospatiale. L'objectif principal est de comprendre comment les caractéristiques géographiques, les mouvements de population et les interactions sociales influencent la propagation de la maladie.
 
 Aperçu du projet
